@@ -1,9 +1,9 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "Horseshoe Bend in Arizona",
+    "short_name": "Horseshoe Bend",
+    "description": "Sit back and really enjoy your visit to Horseshoe Bend!",
     "scope": ".",
-    "start_url": "/pwa-starter",
+    "start_url": "/pwa-starter-vr",
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
